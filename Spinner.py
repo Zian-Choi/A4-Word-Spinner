@@ -17,7 +17,7 @@ class Spinner:
                     synonyms[word.strip()] = [syn.strip() for syn in synonym_str.split(',')]
         return synonyms
 
-    def spin_text(self, text, probability=50):
+    def spin_text(self, text, probability = 50):
         words = text.split()
         new_words = []
 
