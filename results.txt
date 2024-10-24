@@ -1,4 +1,17 @@
 Original: the good day was filled with happy moments.
+
 Option 1 the good day was filled with bright moments
 Option 2 the good day was full with happy moments
 Option 3 the good chance was full with happy moments
+
+Original: the weather looks great today.
+
+Option 1 the weather looks important now
+Option 2 the angle looks great now
+Option 3 the weather looks great day
+
+Original: the rose is full of thorns.
+
+Option 1 the rose is full of thorns
+Option 2 the rose is full of thorns
+Option 3 the rose is full of thorns
