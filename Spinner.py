@@ -1,5 +1,7 @@
 # A4: Word Spinner by DAHEE HONG (u1500852) & Zian Choi (u1534573)
 # Usernames: 'Dahee-Hong' is DAHEE HONG and 'puagra' and 'Zian-Choi' both are Zian Choi
+# https://github.com/Zian-Choi/A4-Word-Spinner
+
 import random
 
 
